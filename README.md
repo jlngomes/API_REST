@@ -1,2 +1,2 @@
 # API_REST
-Projeto de desenvolvimento
+Projeto de desenvolvimento web
